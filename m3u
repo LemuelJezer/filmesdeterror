@@ -3,10 +3,10 @@
 https://rcvod.global.ssl.fastly.net/RCFServer1/ondemand/FRDVSJSN.mp4
 
 #EXTINF:-1 tvg-logo="" , O COLECIONADOR DE CORPOS
-https://rcvod.global.ssl.fastly.net/RCFServer3/ondemand/OCOLCNDRDCPS.mp4
+https://rcvod.global.ssl.fastly.net/RCFServer3/ondemand/OCOLCNDRDCPS.mp4?attachment=true
 
 #EXTINF:-1 tvg-logo="" , HISTÓRIAS ASSUSTADORAS PARA CONTAR NO ESCURO
-https://rcvod.global.ssl.fastly.net/RCFServer3/ondemand/HSTRSASUSTRSPRCNTRNESCR.mp4
+https://rcvod.global.ssl.fastly.net/RCFServer3/ondemand/HSTRSASUSTRSPRCNTRNESCR.mp4?attachment=true
 
 #EXTINF:-1 tvg-logo="" , IT CÁPITULO 2
-https://rcvod.global.ssl.fastly.net/RCFServer3/ondemand/ITCAP2.mp4
+https://rcvod.global.ssl.fastly.net/RCFServer3/ondemand/ITCAP2.mp4?attachment=true
